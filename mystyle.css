@@ -1,0 +1,30 @@
+div {
+	background-color:	#9999CC;
+	color: white;
+}
+
+a:hover {
+	background-color: #6FB7B7;
+}
+
+::selection{
+	color:white;
+	background:#E6CAFF;
+}
+
+body{
+	background:#C7C7E2;	
+}
+
+.style1 {
+	border-radius:50px;
+}
+
+h2{
+	font-family:"Courier New",monospace;
+	font-style:italic;
+}
+
+
+
+
